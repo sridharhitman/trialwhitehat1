@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+}
+
+input {
+    margin-top: 15px;
+}
+
+#sort {
+    margin-top: 15px;
+    display: none;
+}
+
+#submit {
+    margin-top: 15px;
+}
+#clear{
+    display: none;
+}
